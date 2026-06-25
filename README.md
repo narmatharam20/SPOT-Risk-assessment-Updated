@@ -20,3 +20,4 @@ python -m streamlit run app.py
 ## Important persistence note
 The app uses a local SQLite database file (`spott_project_tracker.db`). This is suitable for local/server use. On Streamlit Community Cloud, local storage may reset after redeploys/restarts, so use the Backup feature regularly or connect a permanent database/SharePoint for production use.
 Redeploy fix
+redeploy fix 2
